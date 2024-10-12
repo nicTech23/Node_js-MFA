@@ -1,0 +1,14 @@
+passport 
+passport-local 
+express 
+dotenv 
+nodemon 
+cors 
+bcryptjs 
+jsonwebtoken 
+mongoose 
+speakeasy 
+qrcode
+express-session
+compression
+helmet
